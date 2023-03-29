@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-03-20T08:10:15.141Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-03-19T08:50:15.141Z"
+    },
+    {
+      "id": 3,
+      "description": "Tênis",
+      "type": "outcome",
+      "category": "Vestimento",
+      "price": 500,
+      "createdAt": "2023-03-18T07:10:15.141Z"
+    },
+    {
+      "id": 4,
+      "description": "Viagem Praia",
+      "type": "outcome",
+      "category": "Lazer",
+      "price": 750,
+      "createdAt": "2023-03-18T05:50:15.141Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-21T01:34:02.894Z",
+      "id": 5
+    },
+    {
+      "description": "Marmitex",
+      "price": 20,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-21T02:02:27.993Z",
+      "id": 6
+    }
+  ]
+}
